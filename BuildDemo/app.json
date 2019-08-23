@@ -1,0 +1,26 @@
+{
+  "id": "de5c3c8e-edea-4972-9e8b-0b9c24c47bc1",
+  "name": "MyFirstBuild",
+  "publisher": "Ascentic",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "Transfer Order Barcode System",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "14.0.0.0",
+  "application": "14.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://ALProject1.com/help/",
+  "showMyCode": true,
+  "runtime": "3.2"
+}
