@@ -1,0 +1,5 @@
+{
+"ContainerName": "Azurebcbuild",
+"ContainerImage": "mcr.microsoft.com/businesscentral/sandbox",
+"ContainerLicFile": "C:\\Lic\\lic.flf"
+}
